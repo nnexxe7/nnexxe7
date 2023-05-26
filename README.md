@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
         My name is Michael and i'm from Poland.<br>
-        I'm in my final year of college studying programming and mobile technologies.<br>
+        I'm in my final year of college, studying programming and mobile technologies.<br>
         Currently learning Python and full stack technologies.<br>
         Open to collaborating on interesting and innovative projects.<br>
   <br>
