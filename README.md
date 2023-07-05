@@ -32,22 +32,16 @@
 <h1> 📊 GitHub Stats:
 </div>
 
-<p align="center">
-  <a href="https://github.com/nnexxe7">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnexxe7&theme=transparent" />
-  </a>
-  <a href="https://github.com/nnexxe7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnexxe7&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/nnexxe7">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnexxe7&theme=transparent" />
-  </a>
-  <a href="https://github.com/nnexxe7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnexxe7&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p> 
-<p align="center">
-  <a href="https://github.com/nnexxe7">
-    <img src="https://komarev.com/ghpvc/?username=nnexxe7&color=blue&style=flat)" />
-  </a>
-</p>
+<div align="center">
+
+![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnexxe7&theme=transparent)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nnexxe7&hide_border=true&card_width=338&theme=transparent)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnexxe7&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnexxe7&hide_border=true&theme=transparent)
+
+![Views](https://komarev.com/ghpvc/?username=nnexxe7&color=blue&style=flat)
+
+
+</div>
